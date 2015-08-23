@@ -36,7 +36,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 For each variable above we have the: 
 
-mean(): Mean value in 'Q4DataSet.txt'
-std(): Standard deviation in 'Q4DataSet.txt' 
-Overall_Mean_: Mean value of each variable for each subject and activity in 'Q5DataSet.txt'
+* mean(): Mean value in 'Q4DataSet.txt'
+* std(): Standard deviation in 'Q4DataSet.txt' 
+* Overall_Mean_: Mean value of each variable for each subject and activity in 'Q5DataSet.txt'
 
